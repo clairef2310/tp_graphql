@@ -1,2 +1,5 @@
 # tp_graphql
-CRUD API using Apollo 
+
+## Branche Postman 
+
+installer express-graphql, mongoose,graphql et express.
