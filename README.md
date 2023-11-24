@@ -1,5 +1,11 @@
 # tp_graphql
 
-## Branche Postman 
+# Branche Postman
 
-installer express-graphql, mongoose,graphql et express.
+Cette branche correspond à un fonctionnement de graphql avec Postman.
+
+il faut installer :
+
+@apollo/server
+graphql-tag
+mongoose
