@@ -1,9 +1,17 @@
 # tp_graphql
-CRUD API using Apollo 
+
+Il y a deux branches différentes, qui utilise graphql différemment. Une utilise Apollo server et l'autre Postman. 
+Chaque package à installer sont dans le readme des branches
 
 # Branche Apollo
 
 Cette branche correspond à un fonctionnement de graphql avec Apollo.
+
+Il faut installer :
+  - express-graphql
+  -  mongoose
+  -  graphql
+  -  express
 
 Pour aller sur le serveur Apollo, il faut se mettre sur
 ````
@@ -55,3 +63,17 @@ Root > Query > student(..) : Student et choisir ID dans arguments et mettre l'id
 
 La base de données s'appelle student-register et la collection est dans le dossier bdd
 
+# Branche Postman
+
+Cette branche correspond à un fonctionnement de graphql avec Postman.
+
+il faut installer :
+
+@apollo/server
+graphql-tag
+mongoose
+
+Pour lancer l'application il faut faire : 
+````
+node index.js
+````
