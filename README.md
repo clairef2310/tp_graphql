@@ -1,2 +1,9 @@
 # tp_graphql
-CRUD API using Apollo 
+
+
+## Branche Apollo
+
+il faut installer : 
+  - @apollo/server
+  - graphql-tag
+  - mongoose
